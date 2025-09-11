@@ -15,7 +15,15 @@
 <p>Python • SQL • Power BI • Machine Learning • Data Visualization</p>   
 
 ---
+<h3>🏆 Achievements </h3>
+<ul>
+  <li>⭐ 5-Star in <b>SQL</b> on HackerRank</li>
+  <li>⭐ 4-Star in <b>Python</b> on HackerRank</li>
+  <li>💡 Solved <b>100+ problems</b> on LeetCode</li>
+  <li>🗄️ Practiced <b>SQL queries</b> on DataLemur</li>
+</ul>
 
+---
 <h3>🛠 Things I code with </h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
