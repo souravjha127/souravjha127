@@ -19,7 +19,7 @@
 <ul>
   <li>⭐ 5-Star in <b>SQL</b> on HackerRank</li>
   <li>⭐ 4-Star in <b>Python</b> on HackerRank</li>
-  <li>💡 Solved <b>100+ problems</b> on LeetCode</li>
+  <li>💡 Solved <b>180+ problems</b> on LeetCode</li>
   <li>🗄️ Practiced <b>SQL queries</b> on DataLemur</li>
 </ul>
 
@@ -41,11 +41,20 @@
 ---
 
 <h3>📊 GitHub Stats</h3>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravjha127&show_icons=true&locale=en&layout=compact&theme=radical" alt="souravjha127" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=souravjha127&show_icons=true&theme=radical" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravjha127&show_icons=true&theme=radical" alt="souravjha127" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravjha127&theme=radical" alt="souravjha127" /></p>
+
+<p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=souravjha127&layout=compact&theme=radical" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=souravjha127&theme=radical" />
+</p>
+
+
 
 ---
 
