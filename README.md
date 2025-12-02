@@ -43,16 +43,17 @@
 <h3>📊 GitHub Stats</h3>
 
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=souravjha127&show_icons=true&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=souravjha127&theme=radical" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=souravjha127&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souravjha127&theme=radical" />
 </p>
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=souravjha127&theme=radical" />
 </p>
+
 
 ---
 
