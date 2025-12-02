@@ -54,8 +54,6 @@
   <img src="https://streak-stats.demolab.com/?user=souravjha127&theme=radical" />
 </p>
 
-
-
 ---
 
 <h3>🌐 Connect with me </h3>
