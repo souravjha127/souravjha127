@@ -60,7 +60,7 @@
 <h3>🌐 Connect with me </h3>
 <p align="left">
   <a href="https://www.leetcode.com/souravjha" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow" /></a>
-  <a href="https://www.hackerrank.com/profile/souravjhabhaibh1" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="[https://www.hackerrank.com/profile/souravjhabhaibh1](https://www.hackerrank.com/profile/Souravjha22)" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/souravkumarjha22/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
