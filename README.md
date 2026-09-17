@@ -7,9 +7,9 @@
 <h3>🔭 What I'm working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
 </h3>
 <ul>
-  <li>🌸 Building a <b>Flower Recognition Project</b> using CNN</li>
-  <li>☁️ Exploring <b>Cloud-based ML & GenAI solutions with AWS</b></li> 
+  <li>🗄️ Currently working on a <b>SQL Data Warehouse Project</b> using SQL Server, focusing on ETL pipelines, data modeling, and analytics.</li>
 </ul>
+
 
 <h3>💬 Ask me about </h3>
 <p>Python • SQL • Power BI • Machine Learning • Data Visualization</p>   
